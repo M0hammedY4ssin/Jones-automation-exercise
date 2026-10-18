@@ -13,3 +13,5 @@ An end-to-end automation script using [Playwright] to interact with and validate
 - **Form Dispatch & Validation:** Clicks the submit action ("Request a call back") and monitors the flow until the confirmation/thank-you state appears, logging success to `console.log`.
 
 ---
+## Form before submission 
+![Test Results](form-before-submission.png)
